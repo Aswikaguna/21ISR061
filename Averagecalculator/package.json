@@ -1,0 +1,33 @@
+{
+  "name": "averagecalculator",
+  "version": "1.0.0",
+  "description": "calculator microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aswikaguna/21ISR061.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "aswika",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Aswikaguna/21ISR061/issues"
+  },
+  "homepage": "https://github.com/Aswikaguna/21ISR061#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
